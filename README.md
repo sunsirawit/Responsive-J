@@ -1,1 +1,1 @@
-# Responsive-J
+# Responsive
